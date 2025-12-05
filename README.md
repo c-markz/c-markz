@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 --!>
 
 <!--
 **c-markz/c-markz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ## Stats --!>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c-markz&theme=nord_dark) --!>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c-markz&theme=nord_dark) --!>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c-markz&theme=nord_dark) --!>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=c-markz&theme=nord_dark) --!>
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c-markz&theme=nord_dark&utcOffset=9) --!>
+
+<!-- ## Trophy --!>
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=c-markz&theme=nord_dark) --!>
